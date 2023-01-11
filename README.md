@@ -1,7 +1,7 @@
 # Grammar Checker Online
 [grammar-checker-online](https://github.com/jammorales/grammar-checker-online)  
   
-A web-based grammar checker  
+A web-based grammar checker application
 * Input: String of text  
 * Output: String of text underlined where grammar can be improved
 * How to use: Delete existing text. Copy or type in text to be evaluated.
